@@ -1,0 +1,40 @@
+*.jar
+*.log
+*.pex
+*.pyc
+.cache/
+.DS_Store
+.env*
+.idea/
+.pants.d/
+.pants.run
+.pants.workdir.file_lock*
+.pids/
+.ropeproject/
+__pycache__/
+dist/
+githash
+venv/
+
+# JS
+node_modules/
+junit/
+changed-targets
+npm-debug.log
+
+# Jest
+coverage
+
+#VSCode
+jsconfig.json
+.vscode/
+
+.ensime
+
+# Bucklescript
+lib
+.merlin
+.bsb.lock
+
+# Packer
+packer-manifest.json
