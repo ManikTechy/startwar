@@ -1,0 +1,85 @@
+/*  -- Author Manik Mahendru */
+
+.header-custom{
+
+	background-color: #000;
+    border-color: #000;
+    color: #fff;
+    height: 100px;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.header-custom .logo-custom{
+
+	color: #fff;
+	font-size: 30px;
+}
+
+body{
+
+    background: #080e24 url(/assets/images/bg.jpg) repeat;
+}
+.patternButtonRow {
+
+    text-align: center;
+}
+
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+.welcome{
+
+    text-align: center;
+    font-size:20px 
+}
+
+.btn-circle {
+  width: auto;
+    height: auto;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 100%;
+    margin: 10px;
+    min-height: 100px;
+    min-width: 100px;
+    background: #080e24 url(/assets/images/bg-planet.jpeg) repeat;
+}
+
+.startWarsLogin .container{
+   padding: 100px;
+    width: 600px;
+    color:#ffffff;
+}
+
+.logout{
+  float: right;
+}
+
+.planetSearch{
+  margin-top: 10px;
+}
+
+.modal-header{
+      background: #6c2623;
+    color: white;
+    font-weight: 600;
+}
+.populationHidden{
+      visibility: hidden;
+    font-size: 35px;
+}
+
+.planetName{
+  margin-top: 50%;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.planetcontainer{
+
+  padding-top: 20px;
+}
